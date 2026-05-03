@@ -9,7 +9,7 @@ The project covers the full lifecycle of a machine learning solution, including 
 
 ## Architectural Diagram
 
-![Architecture Diagram](Diagram.png)
+![Architecture Diagram](images/Diagram.png)
 
 This diagram represents the complete workflow of the project:
 
@@ -36,7 +36,7 @@ This diagram represents the complete workflow of the project:
 ## Key Steps
 
 ### 1. Dataset Exploration
-![Dataset](dataset-preview.png)
+![Dataset](images/dataset.png)
 
 ---
 
