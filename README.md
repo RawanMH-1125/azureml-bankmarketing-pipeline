@@ -9,7 +9,7 @@ The project covers the full lifecycle of a machine learning solution, including 
 
 ## Architectural Diagram
 
-![Architecture Diagram](images/Diagram.png)
+![Architecture Diagram](images/Diagram.png)width="500"
 
 This diagram represents the complete workflow of the project:
 
@@ -71,7 +71,7 @@ This diagram represents the complete workflow of the project:
 ---
 
 ### 8. Swagger Documentation
-![Swagger](swagger.png)
+<img src="Swagger.png" width="500">
 
 ---
 
