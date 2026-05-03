@@ -9,7 +9,9 @@ The project covers the full lifecycle of a machine learning solution, including 
 
 ## Architectural Diagram
 
-![Architecture Diagram](images/Diagram.png)width="500"
+<p align="center">
+  <img src="images/Diagram.png" width="700">
+</p>
 
 This diagram represents the complete workflow of the project:
 
@@ -36,42 +38,58 @@ This diagram represents the complete workflow of the project:
 ## Key Steps
 
 ### 1. Dataset Exploration
-![Dataset](images/dataset.png)
+<p align="center">
+  <img src="images/dataset-preview.png" width="700">
+</p>
 
 ---
 
 ### 2. Compute Cluster Setup
-![Compute](compute-cluster-ready.png)
+<p align="center">
+  <img src="images/compute-cluster-ready.png" width="700">
+</p>
 
 ---
 
 ### 3. AutoML Experiment
-![AutoML](automl-experiment.png)
+<p align="center">
+  <img src="images/automl-experiment.png" width="700">
+</p>
 
 ---
 
 ### 4. Pipeline Creation
-![Pipeline](pipeline-submission.png)
+<p align="center">
+  <img src="images/pipeline-submission.png" width="700">
+</p>
 
 ---
 
 ### 5. Model Deployment
-![Endpoint](endpoint-healthy.png)
+<p align="center">
+  <img src="images/endpoint-healthy.png" width="500">
+</p>
 
 ---
 
 ### 6. Endpoint Consumption
-![Consume](endpoint-consume.png)
+<p align="center">
+  <img src="images/endpoint-consume.png" width="500">
+</p>
 
 ---
 
 ### 7. Model Testing
-![Prediction](prediction-output.png)
+<p align="center">
+  <img src="images/prediction-output.png" width="700">
+</p>
 
 ---
 
 ### 8. Swagger Documentation
-<img src="Swagger.png" width="500">
+<p align="center">
+  <img src="images/swagger.png" width="500">
+</p>
 
 ---
 
