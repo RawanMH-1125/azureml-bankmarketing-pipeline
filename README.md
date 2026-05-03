@@ -95,13 +95,17 @@ This diagram represents the complete workflow of the project:
 
 ## Screen Recording
 
-Add your video link here
+Screen Recording
 
----
+A screen recording demonstrating the full workflow is available here:
 
-## Standout Suggestions
 
-- End-to-end ML pipeline implementation  
-- AutoML for model selection  
-- REST API deployment  
-- Endpoint testing using Python  
+The recording includes:
+
+- Dataset upload and exploration
+- AutoML experiment execution
+- Pipeline creation and submission
+- Model deployment
+- Endpoint testing
+
+
