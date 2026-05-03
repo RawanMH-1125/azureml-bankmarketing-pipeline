@@ -108,4 +108,11 @@ The recording includes:
 - Model deployment
 - Endpoint testing
 
+----
+
+## Author:
+
+# Rawan Alhammad
+Azure Machine Learning Project 
+
 
