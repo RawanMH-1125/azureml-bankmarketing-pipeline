@@ -39,7 +39,7 @@ This diagram represents the complete workflow of the project:
 
 ### 1. Dataset Exploration
 <p align="center">
-  <img src="images/dataset-preview.png" width="700">
+  <img src="images/dataset.png" width="700">
 </p>
 
 ---
