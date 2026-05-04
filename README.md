@@ -91,22 +91,6 @@ This diagram represents the complete workflow of the project:
   <img src="images/swagger.png" width="500">
 </p>
 
----
-
-## Screen Recording
-
-Screen Recording
-
-A screen recording demonstrating the full workflow is available here:
-
-
-The recording includes:
-
-- Dataset upload and exploration
-- AutoML experiment execution
-- Pipeline creation and submission
-- Model deployment
-- Endpoint testing
 
 ----
 
